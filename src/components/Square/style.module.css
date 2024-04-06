@@ -1,0 +1,8 @@
+.SquareItem {
+  width: 9vh;
+  height: 9vh;
+  display: flex;
+  border: 1px white solid;
+  justify-content: center;
+  align-items: center;
+}
